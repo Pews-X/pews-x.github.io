@@ -1,6 +1,7 @@
 @font-face {
     font-family: MainFont;
     src: url(/fonts/ProtestStrike-Regular.ttf);
+    font-size: 80px;
   }
 
 h1 {
