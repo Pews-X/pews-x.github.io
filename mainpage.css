@@ -1,5 +1,5 @@
-@font-face { font-family: font1; src: url('https://pews-x.github.io/fonts/ProtestStrike-regular.ttf'); }
+@font-face { font-family: MainFont; src: url('fonts/ProtestStrike-regular.ttf'); }
 
 h1 {
-    font-family: font1
+    font-family: MainFont;
  }
