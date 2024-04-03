@@ -15,3 +15,7 @@ h2 {
     color:white;
     font-size: 60px;
  }
+
+.fuckinheader {
+ background-image: url("/img/home_header.jpg");
+}
