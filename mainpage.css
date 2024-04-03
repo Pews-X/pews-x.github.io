@@ -19,3 +19,7 @@ h2 {
 fuckinheader {
  background-image: url("/img/home_header.jpg");
 }
+
+body {
+    padding:0px; 
+}
